@@ -1,1 +1,4 @@
 event_id,occurred_at,recorded_at,item_id,item_version,concept_id,event_type,independence,source_ref,raw_ref,summary,actor
+EV-20260920-CH7-001,,2026-09-20T15:14:34Z,EXT-CH7-20260911-A,v1,Ch7,exposure,not_applicable,codex-task:01a08b91-687b-7033-bb65-8de7ad6983ff,,2026-09-11自拟六题经当前任务投放；不是仓库正式审查题；投放前未展示本题组答案或决定性提示,Codex
+EV-20260920-CH7-002,,2026-09-20T15:14:34Z,EXT-CH7-20260911-A,v1,Ch7,attempt,unknown,codex-task:01a08b91-687b-7033-bb65-8de7ad6983ff,codex-task:01a08b91-687b-7033-bb65-8de7ad6983ff:user-images:2026-09-20,2026-09-20用户提交两张纸笔照片；题1和CBC局部成立；CFB/OFB/CTR状态关系及OFB误码有断点；部分条件与并行性回答覆盖不足,用户
+EV-20260920-CH7-003,,2026-09-20T15:14:34Z,EXT-CH7-20260911-A,v1,Ch7,feedback,not_applicable,codex-task:01a08b91-687b-7033-bb65-8de7ad6983ff,,2026-09-20当前任务集中批改并展示局部正确模型；尚无修复后作答或迁移证据；候选局部复习不等于完成,Codex

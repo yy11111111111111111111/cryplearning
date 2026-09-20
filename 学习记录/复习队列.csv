@@ -1,1 +1,2 @@
 queue_id,concept_id,item_id,reason,source_event_id,created_at,due_at,priority,status,last_result_event_id
+RQ-20260920-CH7-001,Ch7.mode-state-and-reuse,,CFB/OFB/CTR输入和状态关系需局部修复；OFB传输误码及复用条件需区分,EV-20260920-CH7-003,2026-09-20T15:14:34Z,2026-09-20T15:14:34Z,high,pending,
