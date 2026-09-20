@@ -1,2 +1,10 @@
 item_id,item_version,display_state,independent_correct_event_id,transfer_event_id,delayed_retrieval_event_id,mastery_view,needs_recheck,updated_from_event_id
 EXT-CH7-20260911-A,v1,attempted,,,,需重新核验,true,EV-20260920-CH7-003
+"IMP-20260920-C1112-01-Q25","","attempted","","","","需重新核验","true","EV-20260920-C1112-A25"
+"IMP-20260920-C1112-01-Q26","","attempted","","","","需重新核验","true","EV-20260920-C1112-A26"
+"IMP-20260920-C1112-01-Q27","","attempted","","","","需重新核验","true","EV-20260920-C1112-A27"
+"IMP-20260920-C1112-01-Q28","","attempted","","","","需重新核验","true","EV-20260920-C1112-R28"
+"IMP-20260920-C1112-01-Q29","","attempted","","","","需重新核验","true","EV-20260920-C1112-A29"
+"IMP-20260920-C1112-01-Q30","","attempted","","","","需重新核验","true","EV-20260920-C1112-C30"
+"IMP-20260920-C1112-01-Q31","","attempted","","","","需重新核验","true","EV-20260920-C1112-A31"
+"IMP-20260920-C1112-01-Q32","","attempted","","","","需重新核验","true","EV-20260920-C1112-R32"
