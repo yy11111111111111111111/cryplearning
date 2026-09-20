@@ -1,0 +1,9 @@
+教师私有/
+*.pdf
+*.docx
+*.pptx
+.env
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
